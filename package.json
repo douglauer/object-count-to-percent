@@ -1,0 +1,14 @@
+{
+  "name": "object-count-to-percent",
+  "description": "convert a 2d object with numeric values to percents",
+  "version": "0.0.1",
+  "main": "./module.js",
+  "author": "douglas lauer <taky@taky.com>",
+  "repository": "douglauer/object-count-to-percent",
+  "keywords": [
+    "taky"
+  ],
+  "dependencies": {
+    "lodash": "^4.2.1"
+  }
+}
